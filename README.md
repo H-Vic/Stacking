@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a05aaf60-2619-4a79-bed6-e80051b95ba5)# Usage
+# Usage
 It can be used for classification, prediction and other analysis。
 
 # Requirements
