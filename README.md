@@ -1,4 +1,4 @@
-# Usage
+![image](https://github.com/user-attachments/assets/a05aaf60-2619-4a79-bed6-e80051b95ba5)# Usage
 It can be used for classification, prediction and other analysis。
 
 # Requirements
@@ -29,4 +29,5 @@ It can be used for classification, prediction and other analysis。
 
 e.g. **"python path_to_code/stacking_Model.py"**
 
-
+# Note
+Users are kindly requested to properly acknowledge and cite the original source when utilizing this model or any components of the code in their research, publications, or projects. Appropriate citation ensures that the contributions of the authors are recognized and supports the continued development of this work. Failure to provide proper attribution may violate academic or professional standards.
